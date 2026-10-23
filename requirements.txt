@@ -1,0 +1,6 @@
+
+mediapipe==1.1.1
+opencv-python
+open3d==0.20.0
+numpy
+
